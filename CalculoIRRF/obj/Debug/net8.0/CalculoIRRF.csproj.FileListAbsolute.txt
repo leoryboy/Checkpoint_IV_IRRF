@@ -1,0 +1,15 @@
+/workspaces/Checkpoint_IV_IRRF/CalculoIRRF/obj/Debug/net8.0/CalculoIRRF.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Checkpoint_IV_IRRF/CalculoIRRF/obj/Debug/net8.0/CalculoIRRF.AssemblyInfoInputs.cache
+/workspaces/Checkpoint_IV_IRRF/CalculoIRRF/obj/Debug/net8.0/CalculoIRRF.AssemblyInfo.cs
+/workspaces/Checkpoint_IV_IRRF/CalculoIRRF/obj/Debug/net8.0/CalculoIRRF.csproj.CoreCompileInputs.cache
+/workspaces/Checkpoint_IV_IRRF/CalculoIRRF/obj/Debug/net8.0/CalculoIRRF.sourcelink.json
+/workspaces/Checkpoint_IV_IRRF/CalculoIRRF/bin/Debug/net8.0/CalculoIRRF
+/workspaces/Checkpoint_IV_IRRF/CalculoIRRF/bin/Debug/net8.0/CalculoIRRF.deps.json
+/workspaces/Checkpoint_IV_IRRF/CalculoIRRF/bin/Debug/net8.0/CalculoIRRF.runtimeconfig.json
+/workspaces/Checkpoint_IV_IRRF/CalculoIRRF/bin/Debug/net8.0/CalculoIRRF.dll
+/workspaces/Checkpoint_IV_IRRF/CalculoIRRF/bin/Debug/net8.0/CalculoIRRF.pdb
+/workspaces/Checkpoint_IV_IRRF/CalculoIRRF/obj/Debug/net8.0/CalculoIRRF.dll
+/workspaces/Checkpoint_IV_IRRF/CalculoIRRF/obj/Debug/net8.0/refint/CalculoIRRF.dll
+/workspaces/Checkpoint_IV_IRRF/CalculoIRRF/obj/Debug/net8.0/CalculoIRRF.pdb
+/workspaces/Checkpoint_IV_IRRF/CalculoIRRF/obj/Debug/net8.0/CalculoIRRF.genruntimeconfig.cache
+/workspaces/Checkpoint_IV_IRRF/CalculoIRRF/obj/Debug/net8.0/ref/CalculoIRRF.dll
